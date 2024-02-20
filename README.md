@@ -3,8 +3,11 @@ Movie Production Studio
 Microsoft wants to venture into movie production and have decided to create a movie studio. They however have no information on how to go about movie production. 
 They need to know the types of movies doing well at the box office and actionable insights to inform their course of action.
 The approach taken with the analysis seeks to look at
+
 The revenue/profit margins in the industry
+
 Type of movie that would be successful by exploring the genres, production budget and runtime(length) of the movie.
+
 The relationship between the budget, genre and runtime of the movie.
 
 Data for this project was obtained from the following [repository](https://github.com/JoanwaMaina/dsc-phase-1-project). In the repository's folder zippedData, are movie datasets from:
@@ -36,8 +39,10 @@ The mean profit in the industry is USD 14B. This is indicative of how much reven
 *   The Fox studio has a has the widest range production across the genres at 6.
 
 Given it is the 3rd highest among the most profitable studios it could indicate that versatility in production could mean more profits.
+
 Recommendations
 
 A higher budget film yields a high profit. With the market mean budget at USD 38.8B, a budget film above this will see a return of Usd 14.3B.
+
 Investing in mix of genres is recommended.
 
