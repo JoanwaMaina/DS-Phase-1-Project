@@ -19,6 +19,7 @@ The Numbers
 The data represents movies by genre,budget,grossing at the Box office, release year, runtime, date of release, number of reviews, movie rating and the studios involved in production.
 
 These are the variables this analysis will focuses on to derive insights.
+
 **Conclusions**
 
 **Profits**
@@ -40,7 +41,7 @@ The mean profit in the industry is USD 14B. This is indicative of how much reven
 
 Given it is the 3rd highest among the most profitable studios it could indicate that versatility in production could mean more profits.
 
-Recommendations
+**Recommendations**
 
 A higher budget film yields a high profit. With the market mean budget at USD 38.8B, a budget film above this will see a return of Usd 14.3B.
 
